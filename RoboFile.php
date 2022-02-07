@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package marchmania
+ * @package mohawk-mm
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package marchmania
+ * @package mohawk-mm
  */
 class RoboFile extends \Robo\Tasks
 {
